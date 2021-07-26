@@ -1,10 +1,10 @@
-# Quack Quack
+# Git Practice
 
- Quack quack quack quack quack quack quack quack quack quack quack quack.
+Practicing some advanced Git stuff for practice purposes. No fancy code here. 
 
-**Quack Quack**: Quack, Quack, Quack
+**Required languages**: Git Merge, Git Rebase, Git Gud
 
-# Quack Quack Quack
+# What I Learned
 
-* Quack.
-* Quack quack quack quack quack (quack quack quack).
+* Git. 
+* Some more Git (this was done in a branch).
