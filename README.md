@@ -8,3 +8,4 @@ Practicing some advanced Git stuff for practice purposes. No fancy code here.
 
 * Git. 
 * Some more Git (this was done in a branch).
+* This represents a commit. 
