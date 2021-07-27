@@ -10,3 +10,4 @@ Practicing some advanced Git stuff for practice purposes. No fancy code here.
 * Some more Git (this was done in a branch).
 * This represents a commit. 
 * This represents another commit, both merged via rebase.
+* The branch with this edit doesn't exist. 
