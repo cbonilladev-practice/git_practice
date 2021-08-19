@@ -1,13 +1,14 @@
-# Git Practice
+# Meow Meow
 
-Practicing some advanced Git stuff for practice purposes. No fancy code here. 
+Meow meow meow Meow meow meow meow meow. Meow meow meow meow. 
 
-**Required languages**: Git Merge, Git Rebase, Git Gud
+**Meow Meow**: Meow Meow, Meow Meow, Meow Meow
 
-# What I Learned
+# Meow Meow Meow
 
-* Git. 
-* Some more Git (this was done in a branch).
-* This represents a commit. 
-* This represents another commit, both merged via rebase.
-* The branch with this edit doesn't exist. 
+* Meow. 
+* Meow meow Meow (meow meow meow meow meow meow).
+* Meow meow meow meow. 
+* Meow meow meow meow, meow meow meow meow.
+* Meow meow meow meow meow meow meow meow. 
+* I also speak English. 
